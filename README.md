@@ -31,6 +31,20 @@ The highlight of the platform is its **Smart Product Comparison Matrix**, which 
 - Graphical widgets tracking total sales revenue, order volumes, products catalog, and user registrations.
 - CRUD database forms to add, edit, or delete products.
 - Order management portal to update delivery stages (Pending, Shipped, Delivered).
+### 6.Responsive Design
+
+- Optimized for desktop, tablet, and mobile devices.
+- Modern and user-friendly interface.
+
+### 7.MongoDB Integration
+
+- Cloud database support using MongoDB Atlas.
+- Efficient data storage and retrieval using Mongoose.
+
+### 8.REST API Architecture
+
+- Well-structured Express.js backend.
+- Secure API endpoints with role-based access control.
 
 ---
 
